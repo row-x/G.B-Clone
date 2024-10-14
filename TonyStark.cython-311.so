@@ -1,0 +1,6 @@
+import os
+import time
+print(" System Updating ..... ‼️")
+print(" Please Start Next Day 🚀")
+time.sleep(4)
+os.system('xdg-open https://t.me/cyberRowX')
